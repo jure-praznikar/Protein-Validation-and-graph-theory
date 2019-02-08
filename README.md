@@ -1,5 +1,8 @@
 # Validation-and-quality-assessment-of-macromolecular-structures-using-complex-network-analysis
 
+For details see paper:
+https://www.nature.com/articles/s41598-019-38658-9
+
 Protein model analysis 
 The R script (File name: ProtModAna.r) was used to analyze protein models. The script reads PDB file, converts 3D protein model into graph and calculates mean node degree, Zscore, poor and long subgraphs.
 
