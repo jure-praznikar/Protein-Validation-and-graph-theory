@@ -7,9 +7,11 @@ Smooth mean and standard deviation was calculated using data source (raw_data.cs
 
 USAGE
 1) Test run
-Put "ProtModAna.r" and "SmoothData.csv" in to the same directory and run R script "ProtModAna.r".
+
+Save "ProtModAna.r" and "SmoothData.csv" in to the same directory and run R script "ProtModAna.r".
 
 2) Custom analyze
-User can freely change the path to the "SmoothData.csv" data file. Note this file is necessary to calculate Zscore.
-To analyze desired protein model change the line where R script reads pdb file (see line 19 and 20 in "ProtModAna.r")
+
+User can change the path to the "SmoothData.csv" data file. Note, this file is necessary to calculate Zscore.
+To validate protein model change the line where R script reads pdb file (see line 19 and 20 in "ProtModAna.r")
 
