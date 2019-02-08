@@ -11,5 +11,5 @@ Put "ProtModAna.r" and "SmoothData.csv" in to the same directory and run R scrip
 
 2) Custom analyze
 User can freely change the path to the "SmoothData.csv" data file. Note this file is necessary to calculate Zscore.
-To analyze desired protein model change the line where R script reads pdb file (see line 19 in 20 in "ProtModAna.r")
+To analyze desired protein model change the line where R script reads pdb file (see line 19 and 20 in "ProtModAna.r")
 
